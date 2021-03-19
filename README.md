@@ -13,8 +13,8 @@ computing parties a way to verify specific properties of each other’s
 workloads, lessening the need for blind trust that must be placed on the other
 party. However, these solutions do not yet offer a standard way for customers
 to declare, configure and authenticate attestation claims of a peer workload
-that might be running in a peer TEE (e.g., Intel SGX, AMD SEV, ARM TrustZone,
-etc. or other protected environment), they may offer partial or limited
+that might be running in a peer TEE (e.g., Intel SGX, AMD SEV, Arm TrustZone,
+etc. or other protected environment), and they may offer limited
 framework-independent and platform-independent ways to accomplish Attestation
 interoperability goals. Additionally, they do not have built-in support for web
 services and application frameworks popular among the user community.
@@ -51,4 +51,3 @@ We will have periodic meetings on Zoom, and meeting agenda and minutes will be
 captured in Google docs.
 
 Stay tuned! More links and details will go up soon.
-
